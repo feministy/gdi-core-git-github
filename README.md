@@ -1,26 +1,12 @@
-# CORE INTRO TO GIT AND GITHUB
-This is the official Girl Develop It Core Intro to Git and Github course. Material based on original material by Kim Moir, Daniel Fischer, Aurelia Moser, Carina C. Zona and Izzy Johnston.
+# Intro to Git/GitHub
 
-The course is meant to be taught in a two-hour workshop. Each of the slides and practice files are customizable according to the needs of a given class or audience.
+This is the official [Girl Develop It](http://girldevelopit.com) Core Intro to Git and Github course.
 
+Material based on original material by Kim Moir, Daniel Fischer, Aurelia Moser, Carina C. Zona and Izzy Johnston. Modifications have been made for the Chicago chapter by Liz Abinante.
 
-## Theme customization
+For instructions on using these slides, please see the [main repository](https://github.com/girldevelopit/gdi-core-git-github).
 
-You can change theme colors by changing the theme css to any of the following options:
-```html
-  <link rel="stylesheet" href="css/theme/gdidefault.css" id="theme">
-  <link rel="stylesheet" href="css/theme/gdilight.css" id="theme">
-  <link rel="stylesheet" href="css/theme/gdisunny.css" id="theme">
-  <link rel="stylesheet" href="css/theme/gdicool.css" id="theme">
-```
-You can change the text editor theme by changing the highlight.js css to the following options:
-```html
-  <link rel="stylesheet" href="lib/css/dark.css">
-  <link rel="stylesheet" href="lib/css/light.css">
-```
-You can change transition by changing the reveal transition property in Reveal.initialize
-```javascript
-  Reveal.initialize({
-  				transition:  'default', // default/cube/page/concave/zoom/linear/none
-  			});
-```
+## Companion materials
+
+* [Website](http://feministy.github.io/gdi-core-git-github) - contains links to slides and additional resources for learning Git.
+* [Practice repository](https://github.com/feministy/gdi-core-git-github-practice) for students to send pull requests to.
