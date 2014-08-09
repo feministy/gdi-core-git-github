@@ -2,7 +2,7 @@
 
 This is the official [Girl Develop It](http://girldevelopit.com) Core Intro to Git and Github course.
 
-Material based on original material by Kim Moir, Daniel Fischer, Aurelia Moser, Carina C. Zona and Izzy Johnston. Modifications have been made for the Chicago chapter by Liz Abinante.
+Material based on original material by Kim Moir, Daniel Fischer, Aurelia Moser, Carina C. Zona and Izzy Johnston. Modifications have been made for the Chicago chapter by Liz Abinante and Lucas Willett.
 
 For instructions on using these slides, please see the [main repository](https://github.com/girldevelopit/gdi-core-git-github).
 
